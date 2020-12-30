@@ -1,2 +1,2 @@
 # doom-fire-effect
-efeito de fogo no doom 
+efeito de fogo do doom 
